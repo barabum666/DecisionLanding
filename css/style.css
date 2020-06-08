@@ -143,12 +143,7 @@ body {
 @media (max-width: 900px) {
   .header__hat_logo {
     font-size: 20px;
-    padding-top: 20px;
-  }
-}
-@media (max-width: 767px) {
-  .header__hat_logo {
-    padding-top: 0;
+    padding-top: 0px;
   }
 }
 .header__hat_nav {
