@@ -1660,17 +1660,13 @@ body {
   }
 }
 @media (max-width: 767px) {
-  .footer {
-    height: 45vh;
-  }
-}
-@media (max-width: 500px) {
-  .footer {
+  .footer { 
     display: block;
     height: auto;
     padding-bottom: 20px;
   }
 }
+
 .footer__column {
   height: 100%;
   flex: 0 1 25%;
