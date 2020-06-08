@@ -1408,6 +1408,11 @@ body {
   height: 50%;
   color: #ffffff;
 }
+@media (max-width: 500px) {
+  .some__content {
+    width: 50%;
+  }
+}
 .some__content_button {
   padding-left: 50px;
   margin-bottom: 20px;
